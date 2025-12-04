@@ -1,0 +1,5 @@
+selenium>=4.0
+pandas>=2.0
+python-dateutil
+sqlite3
+apache-airflow==2.6.3
